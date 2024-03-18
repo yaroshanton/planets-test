@@ -1,0 +1,10 @@
+.wrapper {
+  padding: 40px;
+
+  div,
+  button,
+  p,
+  input {
+    font-family: fantasy;
+  }
+}
